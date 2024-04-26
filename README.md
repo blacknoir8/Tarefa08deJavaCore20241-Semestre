@@ -1,34 +1,6 @@
 # Atividade08_de_java_Faculdade_Flamingo
 
 
-Enunciado
-Bom dia Caros Alunos,
-
-
-
-Como vão?
-
-
-
-Espero que muito bem.
-
-
-
-Abaixo, segue as atividades de linguagem de programação Java Core.
-
-
-
-Essas atividades, devem ser desenvolvidas utilizando o laço de repetição "Enquanto". 
-
-
-
-Bons Estudos.
-
-
-
-Professor Obama.
-
-
 
 Questões a serem respondidas:
 
